@@ -109,7 +109,7 @@ With my education at Indiana University enriched by my significant hands-on expe
     </summary>
     <ul>
         <li>
-            Designing and deploying **NoSQL** backends for dynamic Android apps.
+            Designing and deploying <strong>NoSQL</strong> backends for dynamic Android apps.
         </li>
         <li>
             Focusing on efficient server-side logic and resilient data strategies for scalable systems.
