@@ -204,7 +204,7 @@ My technical writing philosophy views rigorous documentation as *inseparable* fr
 I'm always open to discussing new projects, freelance opportunities, or interesting roles. The best way to reach me is through LinkedIn
 <div style="display: flex; justify-content: center; align-items: center; height: 100px; gap: 150px;">
 <a href="https://www.linkedin.com/in/gilmore-ec"><img src="./assets/linkedin branding/in-logo/InBug-White.png" alt=""  height=60px/></a>
-<a href="https://gilmore-elegantcode.com/form.html"><img src="https://img.icons8.com/?size=100&id=59835&format=png&color=ffffff" alt="Contact Form" height=100px/></a>
+<a href="https://gilmore-elegantcode.com/form.html"><img src="https://img.icons8.com/?size=100&id=59835&format=png&color=ffffff" alt="Contact Form" target="_blank" height=100px/></a>
 </div>
 
 I look forward to connecting with you!
