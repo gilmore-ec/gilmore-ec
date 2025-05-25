@@ -82,9 +82,24 @@ Here are some of my key projects, highlighting my skills in Android development,
 
 ## 🛠️ Technologies & Tools
 
+<div style="display: flex; justify-content: center; align-items: center; height: 100px; gap: 24px;">
+    <a href="https://git-scm.com/"><img src="./assets/git-logomark-orange.png" alt="Orange Git Logomark" height="48"/></a>
+    <a href="https://maven.apache.org/"><img src="https://assets.stickpng.com/images/62a78ca8e42d729d928b174d.png" height="48" alt="Apache Maven Feathered V"/></a>
+    <a href="https://gradle.org/"><img src="https://gradle.com/wp-content/themes/fuel/assets/img/branding/gradle-elephant-icon-gradient.svg" width="48" alt="Gradle Elephant Icon"/></a>
+    <a href="https://code.visualstudio.com/"><img src="./assets/visual-studio-code-icons/vscode.svg" alt="Visual Studio Code" height="48"/></a>
+    <a href="https://www.jetbrains.com/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA logo." height="48"/></a>
+    <a href="https://www.oracle.com/java/"><img src="https://cr.openjdk.java.net/~jeff/Duke/png/Hips.png" alt="Duke, the Java mascot"  height="48"/></a>
+    <a href="https://kotlinlang.org/"><img src="./assets\kotlin_logos\Digital\Mark\Full Color\Kotlin Full Color Logo Mark RGB.svg" alt="Kotlin Logomark" height="46"/></a>
+    <a href="https://html.spec.whatwg.org/multipage/"><img src="./assets/HTML5_Badge.svg" alt="HTML5 Logo" height=48/></a>
+    <a href="https://www.w3.org/Style/CSS/"><img src="./assets/CSS3_logo.svg" height=48 alt="CSS3 Logo"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/Badge_js-strict.png" alt="" height=48/></a>
+    <a href="https://github.com/"><img src="./assets/github-mark/github-mark-white.svg" alt="" height=48/></a>
+    <a href="https://firebase.google.com/docs"><img src="./assets/firebase-brand-assets/Firebase Logo & Product assets  2/Firebase Logo/Primary Logomark/SVG/Logomark_Full Color.svg" alt="" height=48/></a>
+</div>
+
 A snapshot of the technologies and tools I leverage:
 
-* **Programming Languages:** Java, Kotlin, HTML, CSS
+* **Programming Languages:** Java, Kotlin, HTML, CSS, JavaScript
 * **Android Development:** Android SDK, Android Studio, XML UI Design
 * **Backend Development:** Maven, Gradle
 * **Databases & Cloud Services:** NoSQL, Firebase Authentication, Firebase Firestore
@@ -186,8 +201,10 @@ My technical writing philosophy views rigorous documentation as *inseparable* fr
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new projects, freelance opportunities, or interesting roles. The best way to reach me is through LinkedIn:
-
-* **LinkedIn:** <a href="https://www.linkedin.com/in/gilmore-ec">Timothy Gilmore</a>
+I'm always open to discussing new projects, freelance opportunities, or interesting roles. The best way to reach me is through LinkedIn
+<div style="display: flex; justify-content: center; align-items: center; height: 100px; gap: 150px;">
+<a href="https://www.linkedin.com/in/gilmore-ec"><img src="./assets/linkedin branding/in-logo/InBug-White.png" alt=""  height=60px/></a>
+<a href="https://gilmore-elegantcode.com/form.html"><img src="https://img.icons8.com/?size=100&id=59835&format=png&color=ffffff" alt="Contact Form" height=100px/></a>
+</div>
 
 I look forward to connecting with you!
