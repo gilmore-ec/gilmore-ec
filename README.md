@@ -84,7 +84,7 @@ Here are some of my key projects, highlighting my skills in Android development,
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100px; gap: 24px;">
     <a href="https://git-scm.com/"><img src="./assets/git-logomark-orange.png" alt="Orange Git Logomark" height="48"/></a>
-    <a href="https://maven.apache.org/"><img src="https://assets.stickpng.com/images/62a78ca8e42d729d928b174d.png" height="48" alt="Apache Maven Feathered V"/></a>
+    <a href="https://maven.apache.org/"><img src="./assets/Maven Logo.png" height="48" alt="Apache Maven Feathered V"/></a>
     <a href="https://gradle.org/"><img src="https://gradle.com/wp-content/themes/fuel/assets/img/branding/gradle-elephant-icon-gradient.svg" width="48" alt="Gradle Elephant Icon"/></a>
     <a href="https://code.visualstudio.com/"><img src="./assets/visual-studio-code-icons/vscode.svg" alt="Visual Studio Code" height="48"/></a>
     <a href="https://www.jetbrains.com/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA logo." height="48"/></a>
