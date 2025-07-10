@@ -7,7 +7,7 @@ I'm a **software engineer** and **Android app developer** with a passion for **t
 I'm currently seeking opportunities to leverage my skills in challenging roles and am also available for freelance projects focused on building innovative software solutions.
 
 I believe that the best solutions emerge from a blend of technical excellence, clear communication, and a collaborative spirit. Whether architecting a backend system or documenting an API, I prioritize clarity and teamwork to build effective, maintainable, and innovative software.
-
+<!-- 
 ## 👀 Check Out My Projects
 
 Here are some of my key projects, highlighting my skills in Android development, algorithmic problem-solving, and backend integration. You can find more details (and the source code) in their respective repositories by clicking on their titles.
@@ -198,7 +198,7 @@ My technical writing philosophy views rigorous documentation as *inseparable* fr
 * Actively deepening my expertise in **DevOps**, including exploring relevant certifications.
 * Expanding my collection of powerful languages by learning Rust.
 * Engaging with the tech and startup ecosystem by attending industry events (such as the recent IU Ventures Summit), building my professional network, and contributing through my active role at the Shoemaker Innovation Center.
-
+ 
 ## 📫 Let's Connect!
 
 I'm always open to discussing new projects, freelance opportunities, or interesting roles. The best way to reach me is through LinkedIn
@@ -208,3 +208,4 @@ I'm always open to discussing new projects, freelance opportunities, or interest
 </div>
 
 I look forward to connecting with you!
+ -->
