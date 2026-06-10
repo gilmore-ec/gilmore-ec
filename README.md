@@ -1,16 +1,14 @@
-Software and network engineer building secure, automated infrastructure. I design zero-trust production networks, develop self-healing automation, and build applications in Java, Python, and Kotlin.
+Software and infractructure engineer building secure, automated, and reliable systems. I stand up and configure on-site midsize business datacenter networks and servers, deploy secure internal development and security tools, develop self-healing automation, and build applications in Java, Python, and Kotlin.
 
 ## Tech Stack
 
-**Languages:** Java, Python, Kotlin, Bash, JavaScript, SQL
+**Languages:** Java, Python, C, Kotlin, Bash, JavaScript
 
-**Infrastructure:** Docker, Linux, KVM, nginx, Git
+**Infrastructure:** Grafana, Prometheus, Gitea/Forgejo, Docker, Nginx, Linux, KVM
 
-**Networking:** Network Security, TCP/IP, VLAN, VPN, DNS, firewall management, network automation
+**Networking:** TCP/IP, VLAN, VPN, DNS, Firewall Management, Policy-Based Routing
 
-**Data Science:** pandas, scikit-learn, matplotlib, Jupyter
-
-B.S. in Computer Science (Systems specialization, Data Science minor), Indiana University Bloomington.
+**Data Science:** SQL, Pandas, Scikit-learn, Matplotlib, Jupyter
 
 ## Links
 
